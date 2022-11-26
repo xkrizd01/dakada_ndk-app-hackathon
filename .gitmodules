@@ -1,6 +1,6 @@
 [submodule "ndk/ofm"]
 	path = ndk/ofm
-	url = git@github.com:CESNET/ofm.git
+	url = https://github.com/CESNET/ofm.git
 [submodule "ndk/cards/cyclone-v-gx-startkit"]
 	path = ndk/cards/cyclone-v-gx-startkit
-	url = git@github.com:walliv/ndk-cyclone-v-gx-startkit.git
+	url = https://github.com/xkrizd01/ndk-cyclone-v-gx-startkit.git
